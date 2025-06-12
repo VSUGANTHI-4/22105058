@@ -53,3 +53,7 @@ average-calculator-service/
 
 ```bash
 npm install express axios
+## 📷 Sample Output
+
+![Sample Output](screenshot/outputimage.png)
+
